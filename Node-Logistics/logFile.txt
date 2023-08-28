@@ -1,0 +1,27 @@
+
+ 
+Order received:
+   order-number-0001
+    userId-64eaef352211c8d1941dcc48
+    item-Atta 40
+ 
+Order received:
+   order-number-0002
+    userId-64eaef352211c8d1941dcc48
+    item-Atta 40
+ 
+Order delivered:
+   order-number-0002
+    userId-64eaef352211c8d1941dcc48
+    item-Atta 40
+ 
+Order received:
+   order-number-0003
+    userId-64eaef352211c8d1941dcc48
+    item-paani 30
+ 
+Order delivered:
+   order-number-0003
+    userId-64eaef352211c8d1941dcc48
+    item-paani 30
+ 
